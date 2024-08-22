@@ -10,7 +10,6 @@ This project demonstrates the use of Test-Driven Development (TDD) inside-out Ap
 - Testing Framework: TestNG
 
 ## TDD Process
-Created a `Product` and `ShoppingCart`  class in the `main` package and a `ShoppingCartTest` and `Product` class in the `test` package. 
 
 In the `ProductTest` class, the following tests were created:
 1. **testProductCreation**: Created a test for the product constructor. Refactored the `Product` class to include a constructor.
