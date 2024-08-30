@@ -1099,6 +1099,7 @@ public void testGetTotal() {
 }
 ```
 
+#### Answer 1:
 **Plan:**
 1. Add a `getTotal` method to the `ShoppingCart` class.
 2. The `getTotal` method should iterate over all products in the cart and calculate the total price by summing the product of the price and quantity of each product.
